@@ -1,4 +1,6 @@
-2. Factorielle iterative
+Gilles COUTARD
+
+Factorielle iterative
 
 Ecrire une fonction qui calcule factorielle N, c'est-à-dire: N! = N * (N-1) * (N-2) * ... * 3 * 2 *1 en utilisant la boucle for.
 On écrira ultérieurement (maintenant si vous savez le faire) une version récursive de factorielle
